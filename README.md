@@ -1,6 +1,6 @@
 # NinnaApp
 Ths is an App to manage products, stock, and sales.
-## [Demo 💥]([https://gkeepclone1.netlify.app/](https://ninnaapp.netlify.app/))
+## [Demo 💥](https://ninnaapp.netlify.app/)
 
 ## Technologies
 
