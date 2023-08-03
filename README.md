@@ -5,7 +5,7 @@ Presenting a robust and sophisticated application designed for efficient product
 ## Technologies
 
 - Javascript
-- Reac
+- React
 - Material UI
 - Firebebase
 - React-Router
